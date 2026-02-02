@@ -12,31 +12,25 @@ This project aims to build a web-based application that predicts common diseases
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/zuhaibbutt786/Ai-medical-chatbot
+   git clone https://github.com/SriRaaghav/AI-Medical-ChatBot
    ```
 
 2. Change into the project directory:
    ```
-   cd Ai-medical-chatbot
+   cd AI-Medical-Chatbot
    ```
 
-3. Create a virtual environment and activate it (optional but recommended):
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-   ```
-
-4. Install required packages:
+3. Install required packages:
    ```
    pip install -r requirements.txt
    ```
 
-5. Run the Flask application:
+4. Run the Flask application:
    ```
    python app.py
    ```
 
-6. Access the application in your web browser at `http://localhost:5000`.
+6. Access the application in your web browser at `http://localhost:5001`.
 
 ## Usage
 1. Open the web application in your browser.
@@ -61,8 +55,5 @@ If you want to retrain the KNN model with your own dataset, you can follow these
 - Scalability: This project is a simple demonstration. In a real-world scenario, you may need to consider scalability and system architecture.
 
 
-## License
-This project is licensed under the general public license License - see the(LICENSE.md) file for details.
-
 ## Author
-Zuhaib Hussain Butt
+M D Sri Raaghav
